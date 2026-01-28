@@ -3,6 +3,7 @@ from airflow.sensors.base import PokeReturnValue
 from airflow.hooks.base import BaseHook
 from airflow.operators.python import PythonOperator
 from airflow.providers.docker.operators.docker import DockerOperator
+from airflow.providers.slack.notifications.slack_notifier import SlackNotifier
 from include.stock_market.tasks import _get_stock_prices, _store_prices, _get_formatted_csv, BUCKET_NAME
 from astro import sql as aql
 from astro.sql.table import Table, Metadata
@@ -16,7 +17,17 @@ SYMBOL = 'NVDA'
     start_date=datetime(2024, 1, 1),
     schedule='@daily',
     catchup=False,
-    tags=['stock_market']
+    tags=['stock_market'],
+    on_success_callback=SlackNotifier(
+        slack_conn_id='slack',
+        text='The DAG stock_market has been succeeded!',
+        channel = 'all-notification'
+    ),
+    on_failure_callback=SlackNotifier(
+        slack_conn_id='slack',
+        text='The DAG stock_market has been failed!',
+        channel = 'all-notification'
+    )
 )
 
 def stock_market():

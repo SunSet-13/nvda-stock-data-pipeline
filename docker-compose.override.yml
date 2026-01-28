@@ -1,5 +1,12 @@
 services:
 
+  postgres:
+    ports:
+      - "5433:5432"
+    networks:
+      - airflow
+      - ndsnet
+
   minio:
     image: minio/minio:RELEASE.2024-06-13T22-53-53Z
     container_name: minio
@@ -69,6 +76,21 @@ services:
       - "2376:2375"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
+    networks:
+      - airflow
+      - ndsnet
+
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    container_name: pgadmin
+    restart: always
+    ports:
+      - "5050:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    volumes:
+      - ./include/data/pgadmin:/var/lib/pgadmin
     networks:
       - airflow
       - ndsnet
