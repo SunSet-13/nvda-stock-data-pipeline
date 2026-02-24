@@ -10,7 +10,7 @@ from astro.sql.table import Table, Metadata
 from astro.files import File 
 import requests
 
-from datetime import datetime
+from datetime import datetime, timedelta
 SYMBOL = 'NVDA'
 
 @dag(
@@ -54,7 +54,6 @@ def stock_market():
     format_prices = DockerOperator(
         task_id='format_prices',
         image = 'airflow/stock-app',
-        container_name = 'format_prices',
         api_version='auto',
         auto_remove='success',
         docker_url='tcp://docker-proxy:2375',
@@ -62,6 +61,8 @@ def stock_market():
         tty=True,
         xcom_all = False,
         mount_tmp_dir=False,
+        retries=2,
+        retry_delay=timedelta(seconds=30),
         environment = {
             'SPARK_APPLICATION_ARGS': '{{ ti.xcom_pull(task_ids="store_prices") }}',
         }
