@@ -1,0 +1,133 @@
+user_id,username,email,full_name,gender,birth_date,hire_date,position,department,store_id,manager_id,has_training,training_level,total_training_days,training_score,last_training_date,is_active,created,modified
+1,nv0001,nv1@tamsonvn.com,Dương Minh,Nam,1992-10-14,2015-07-29,Client Advisor,Sales,1,,1,Nâng cao,37,89.2,2018-05-06,1,2015-07-29,2021-05-16
+2,nv0002,nv2@tamsonvn.com,Bùi Thành,Nam,1982-08-17,2010-12-15,Client Advisor,Sales,1,,1,International,53,74.0,2013-06-15,1,2010-12-15,2021-05-26
+3,nv0003,nv3@tamsonvn.com,Hoàng Lan,Nữ,1994-05-04,2017-08-05,Client Advisor,Sales,1,,1,Cơ bản,42,90.0,2024-04-19,1,2017-08-05,2023-02-03
+4,nv0004,nv4@tamsonvn.com,Phan Anh,Nam,1988-03-29,2017-01-08,Senior Client Advisor,Sales,1,,1,Nâng cao,21,88.2,2019-01-30,1,2017-01-08,2020-06-21
+5,nv0005,nv5@tamsonvn.com,Phan Đức,Nam,1994-03-13,2013-10-08,Store Manager,Management,1,,1,Nâng cao,36,96.2,2015-03-18,0,2013-10-08,2014-11-29
+6,nv0006,nv6@tamsonvn.com,Bùi Hằng,Nữ,1991-10-13,2010-02-10,Visual Merchandiser,Marketing,1,,1,Chuyên sâu,10,93.6,2010-07-29,1,2010-02-10,2010-06-15
+7,nv0007,nv7@tamsonvn.com,Bùi Quang,Nam,1995-03-09,2013-02-17,Stock Controller,Operations,1,,0,,0,,,1,2013-02-17,2014-11-01
+8,nv0008,nv8@tamsonvn.com,Hoàng Mai,Nữ,1992-07-10,2021-07-31,Client Advisor,Sales,1,,0,,0,,,1,2021-07-31,2022-05-09
+9,nv0009,nv9@tamsonvn.com,Đỗ Phương,Nữ,1995-05-23,2013-10-13,Client Advisor,Sales,1,,1,International,25,78.4,2020-03-03,1,2013-10-13,2014-11-01
+10,nv0010,nv10@tamsonvn.com,Vũ Trung,Nam,1985-01-12,2017-01-16,Client Advisor,Sales,1,,1,International,87,68.8,2020-02-23,1,2017-01-16,2017-12-28
+11,nv0011,nv11@tamsonvn.com,Vũ Nga,Nữ,1980-01-23,2015-05-22,Client Advisor,Sales,1,,0,,0,,,1,2015-05-22,2023-06-29
+12,nv0012,nv12@tamsonvn.com,Phạm Thành,Nam,1985-05-11,2016-07-04,Client Advisor,Sales,1,,1,International,33,89.3,2019-04-25,1,2016-07-04,2022-07-01
+13,nv0013,nv13@tamsonvn.com,Hoàng Hùng,Nam,1989-08-10,2019-02-10,Client Advisor,Sales,1,,1,Chuyên sâu,50,97.2,2023-06-30,1,2019-02-10,2023-11-06
+14,nv0014,nv14@tamsonvn.com,Nguyễn Phương,Nữ,1990-05-10,2020-03-17,Client Advisor,Sales,1,,1,International,39,81.6,2024-01-10,1,2020-03-17,2024-10-05
+15,nv0015,nv15@tamsonvn.com,Lê Bình,Nam,2000-02-28,2013-08-26,Client Advisor,Sales,1,,1,Cơ bản,15,86.0,2015-06-04,1,2013-08-26,2018-03-29
+16,nv0016,nv16@tamsonvn.com,Bùi Hùng,Nam,1988-01-05,2015-07-22,Client Advisor,Sales,1,,1,Chuyên sâu,58,92.3,2020-09-16,1,2015-07-22,2019-05-03
+17,nv0017,nv17@tamsonvn.com,Phạm Phương,Nữ,1986-05-26,2018-02-04,Client Advisor,Sales,1,,1,Cơ bản,77,86.9,2019-08-09,1,2018-02-04,2018-10-03
+18,nv0018,nv18@tamsonvn.com,Trần Thảo,Nữ,1997-03-15,2012-03-19,Client Advisor,Sales,1,,1,Cơ bản,59,94.7,2014-06-08,1,2012-03-19,2015-04-18
+19,nv0019,nv19@tamsonvn.com,Đỗ Hà,Nữ,1981-01-20,2011-05-14,Client Advisor,Sales,2,,1,International,12,86.4,2014-03-24,1,2011-05-14,2015-02-13
+20,nv0020,nv20@tamsonvn.com,Phan Phương,Nữ,1993-01-26,2021-03-20,Client Advisor,Sales,2,,1,Chuyên sâu,61,92.4,2023-01-10,0,2021-03-20,2023-06-21
+21,nv0021,nv21@tamsonvn.com,Trần Anh,Nam,1998-10-06,2017-11-19,Client Advisor,Sales,2,,1,Nâng cao,72,76.9,2020-06-17,1,2017-11-19,2020-08-14
+22,nv0022,nv22@tamsonvn.com,Trần Trung,Nam,1995-12-10,2011-10-25,Senior Client Advisor,Sales,2,,1,Chuyên sâu,60,81.4,2022-12-15,1,2011-10-25,2023-05-08
+23,nv0023,nv23@tamsonvn.com,Đỗ Tuấn,Nam,1987-01-23,2015-08-16,Store Manager,Management,2,,0,,0,,,1,2015-08-16,2022-10-29
+24,nv0024,nv24@tamsonvn.com,Lê Hoa,Nữ,1983-08-23,2013-05-16,Visual Merchandiser,Marketing,2,,1,Chuyên sâu,35,72.3,2019-05-09,1,2013-05-16,2017-11-04
+25,nv0025,nv25@tamsonvn.com,Hoàng Anh,Nam,2000-09-24,2016-10-19,Stock Controller,Operations,2,,1,Nâng cao,48,75.4,2024-01-02,1,2016-10-19,2018-06-19
+26,nv0026,nv26@tamsonvn.com,Bùi Yến,Nữ,1988-06-07,2014-11-19,Client Advisor,Sales,2,,0,,0,,,1,2014-11-19,2023-10-11
+27,nv0027,nv27@tamsonvn.com,Ngô Tuấn,Nam,1997-06-18,2015-10-18,Client Advisor,Sales,2,,1,International,5,74.2,2021-09-04,1,2015-10-18,2021-04-16
+28,nv0028,nv28@tamsonvn.com,Bùi Ngọc,Nữ,1995-06-01,2016-03-23,Client Advisor,Sales,2,,1,Chuyên sâu,34,97.2,2017-07-13,1,2016-03-23,2016-09-19
+29,nv0029,nv29@tamsonvn.com,Dương Trung,Nam,1991-07-29,2017-05-09,Client Advisor,Sales,2,,1,Chuyên sâu,56,91.1,2023-11-26,1,2017-05-09,2019-02-04
+30,nv0030,nv30@tamsonvn.com,Ngô Lan,Nữ,1992-05-03,2010-05-23,Client Advisor,Sales,2,,1,International,59,65.1,2011-07-11,1,2010-05-23,2016-06-29
+31,nv0031,nv31@tamsonvn.com,Đặng Hải,Nam,1984-02-28,2020-01-20,Client Advisor,Sales,3,,1,International,77,79.2,2020-07-31,1,2020-01-20,2023-02-06
+32,nv0032,nv32@tamsonvn.com,Đỗ Mai,Nữ,1980-09-07,2013-02-16,Client Advisor,Sales,3,,0,,0,,,1,2013-02-16,2016-05-27
+33,nv0033,nv33@tamsonvn.com,Dương Hải,Nam,1993-01-10,2020-11-19,Client Advisor,Sales,3,,1,Nâng cao,66,79.2,2023-06-28,1,2020-11-19,2021-02-21
+34,nv0034,nv34@tamsonvn.com,Hoàng Lan,Nữ,1981-08-30,2019-07-11,Senior Client Advisor,Sales,3,,1,International,37,66.0,2023-11-21,1,2019-07-11,2022-07-12
+35,nv0035,nv35@tamsonvn.com,Ngô Ánh,Nữ,1986-11-24,2017-07-18,Store Manager,Management,3,,0,,0,,,1,2017-07-18,2019-06-22
+36,nv0036,nv36@tamsonvn.com,Trần Thảo,Nữ,1994-05-30,2012-03-29,Visual Merchandiser,Marketing,3,,1,Cơ bản,64,79.9,2013-01-27,1,2012-03-29,2013-09-24
+37,nv0037,nv37@tamsonvn.com,Ngô Quang,Nam,1987-04-08,2012-09-29,Stock Controller,Operations,3,,1,International,27,92.8,2014-10-31,1,2012-09-29,2014-12-23
+38,nv0038,nv38@tamsonvn.com,Hoàng Anh,Nam,1997-08-08,2017-02-25,Client Advisor,Sales,3,,0,,0,,,1,2017-02-25,2022-06-07
+39,nv0039,nv39@tamsonvn.com,Vũ Khánh,Nam,2000-08-05,2013-01-29,Client Advisor,Sales,3,,1,International,19,79.4,2020-02-11,0,2013-01-29,2018-02-17
+40,nv0040,nv40@tamsonvn.com,Phạm Hùng,Nam,1984-05-28,2015-11-10,Client Advisor,Sales,3,,0,,0,,,1,2015-11-10,2021-11-04
+41,nv0041,nv41@tamsonvn.com,Hồ Anh,Nam,1989-01-15,2011-07-11,Client Advisor,Sales,3,,1,Cơ bản,80,92.6,2018-05-09,1,2011-07-11,2023-03-20
+42,nv0042,nv42@tamsonvn.com,Phạm Yến,Nữ,1994-11-10,2010-04-18,Client Advisor,Sales,3,,1,International,84,94.7,2011-10-03,1,2010-04-18,2015-07-16
+43,nv0043,nv43@tamsonvn.com,Lê Thành,Nam,1986-05-11,2014-12-14,Client Advisor,Sales,4,,1,Cơ bản,5,84.7,2017-03-17,1,2014-12-14,2023-08-28
+44,nv0044,nv44@tamsonvn.com,Bùi Long,Nam,2000-01-11,2021-10-30,Client Advisor,Sales,4,,1,Cơ bản,20,95.8,2023-05-02,1,2021-10-30,2023-11-13
+45,nv0045,nv45@tamsonvn.com,Phan Ngọc,Nữ,2000-05-31,2015-09-30,Client Advisor,Sales,4,,1,Chuyên sâu,25,79.5,2023-01-21,1,2015-09-30,2021-04-19
+46,nv0046,nv46@tamsonvn.com,Ngô Đức,Nam,1983-06-10,2016-11-26,Senior Client Advisor,Sales,4,,1,Nâng cao,39,75.0,2021-02-09,1,2016-11-26,2019-03-24
+47,nv0047,nv47@tamsonvn.com,Ngô Tuấn,Nam,1994-11-17,2012-03-26,Store Manager,Management,4,,1,Nâng cao,56,84.5,2017-06-26,1,2012-03-26,2015-06-28
+48,nv0048,nv48@tamsonvn.com,Đặng Linh,Nữ,1980-02-19,2016-08-25,Visual Merchandiser,Marketing,4,,1,Chuyên sâu,36,75.3,2017-09-02,1,2016-08-25,2024-08-18
+49,nv0049,nv49@tamsonvn.com,Dương Mai,Nữ,1990-07-03,2019-09-06,Stock Controller,Operations,4,,1,Nâng cao,41,93.9,2022-01-16,1,2019-09-06,2021-04-02
+50,nv0050,nv50@tamsonvn.com,Đỗ Linh,Nữ,1983-06-13,2012-05-12,Client Advisor,Sales,4,,0,,0,,,1,2012-05-12,2024-04-16
+51,nv0051,nv51@tamsonvn.com,Dương Anh,Nam,1987-09-02,2019-02-05,Client Advisor,Sales,4,,0,,0,,,1,2019-02-05,2020-06-17
+52,nv0052,nv52@tamsonvn.com,Phạm Đức,Nam,1996-06-30,2021-07-26,Client Advisor,Sales,4,,0,,0,,,1,2021-07-26,2023-02-05
+53,nv0053,nv53@tamsonvn.com,Đỗ Ngọc,Nữ,1986-04-15,2012-11-06,Client Advisor,Sales,4,,1,Chuyên sâu,27,74.8,2014-10-21,1,2012-11-06,2018-09-04
+54,nv0054,nv54@tamsonvn.com,Phạm Hà,Nữ,1990-09-05,2019-09-03,Client Advisor,Sales,4,,1,Chuyên sâu,57,70.5,2024-05-31,1,2019-09-03,2020-02-08
+55,nv0055,nv55@tamsonvn.com,Trần Đức,Nam,1994-02-01,2019-03-28,Client Advisor,Sales,5,,1,Cơ bản,15,97.1,2021-12-28,1,2019-03-28,2023-11-04
+56,nv0056,nv56@tamsonvn.com,Hồ Linh,Nữ,1996-08-03,2016-10-04,Client Advisor,Sales,5,,1,International,24,97.3,2023-11-04,1,2016-10-04,2024-05-08
+57,nv0057,nv57@tamsonvn.com,Hồ Mai,Nữ,1985-01-07,2013-02-28,Client Advisor,Sales,5,,1,International,30,97.3,2022-12-30,1,2013-02-28,2018-03-27
+58,nv0058,nv58@tamsonvn.com,Ngô Hùng,Nam,1989-10-09,2014-11-22,Senior Client Advisor,Sales,5,,1,Chuyên sâu,76,96.9,2016-08-06,1,2014-11-22,2024-10-06
+59,nv0059,nv59@tamsonvn.com,Phan Đức,Nam,1988-11-20,2016-05-09,Store Manager,Management,5,,0,,0,,,1,2016-05-09,2019-09-03
+60,nv0060,nv60@tamsonvn.com,Dương Lan,Nữ,1994-01-18,2011-09-27,Visual Merchandiser,Marketing,5,,0,,0,,,1,2011-09-27,2017-04-24
+61,nv0061,nv61@tamsonvn.com,Nguyễn Mai,Nữ,1982-03-15,2012-01-14,Stock Controller,Operations,5,,1,Nâng cao,43,82.9,2019-10-03,1,2012-01-14,2013-03-16
+62,nv0062,nv62@tamsonvn.com,Đặng Việt,Nam,1990-02-25,2015-02-22,Client Advisor,Sales,5,,1,International,68,92.4,2021-02-25,1,2015-02-22,2021-07-13
+63,nv0063,nv63@tamsonvn.com,Lê Lan,Nữ,1981-05-11,2018-08-28,Client Advisor,Sales,5,,1,Nâng cao,87,82.4,2024-06-13,1,2018-08-28,2018-11-14
+64,nv0064,nv64@tamsonvn.com,Phạm Lan,Nữ,1982-01-20,2014-08-11,Client Advisor,Sales,5,,1,International,47,94.0,2021-07-25,1,2014-08-11,2017-05-06
+65,nv0065,nv65@tamsonvn.com,Dương Tuấn,Nam,1993-04-01,2011-12-07,Client Advisor,Sales,5,,1,Cơ bản,32,87.2,2023-10-26,1,2011-12-07,2019-12-15
+66,nv0066,nv66@tamsonvn.com,Lê Việt,Nam,1991-09-14,2010-06-24,Client Advisor,Sales,5,,1,Chuyên sâu,51,82.0,2016-11-20,1,2010-06-24,2019-03-14
+67,nv0067,nv67@tamsonvn.com,Nguyễn Nga,Nữ,1992-05-13,2010-01-10,Client Advisor,Sales,5,,0,,0,,,1,2010-01-10,2013-12-11
+68,nv0068,nv68@tamsonvn.com,Phạm Thu,Nữ,1983-01-14,2017-05-26,Client Advisor,Sales,5,,1,Cơ bản,80,66.7,2020-04-17,1,2017-05-26,2024-09-06
+69,nv0069,nv69@tamsonvn.com,Đặng Ánh,Nữ,1999-12-27,2022-09-06,Client Advisor,Sales,5,,1,International,47,92.3,2023-07-13,0,2022-09-06,2023-09-05
+70,nv0070,nv70@tamsonvn.com,Trần Trung,Nam,1988-07-14,2015-12-27,Client Advisor,Sales,5,,0,,0,,,1,2015-12-27,2019-01-14
+71,nv0071,nv71@tamsonvn.com,Đỗ Linh,Nữ,1983-02-26,2019-01-13,Client Advisor,Sales,5,,1,Chuyên sâu,87,97.0,2020-08-25,1,2019-01-13,2021-03-05
+72,nv0072,nv72@tamsonvn.com,Bùi Minh,Nam,1997-06-29,2013-12-29,Client Advisor,Sales,5,,0,,0,,,1,2013-12-29,2023-04-23
+73,nv0073,nv73@tamsonvn.com,Nguyễn Anh,Nam,1989-10-15,2013-04-23,Client Advisor,Sales,5,,1,International,35,68.2,2020-11-02,1,2013-04-23,2019-07-24
+74,nv0074,nv74@tamsonvn.com,Phạm Yến,Nữ,1999-08-14,2019-08-06,Client Advisor,Sales,5,,0,,0,,,1,2019-08-06,2020-09-03
+75,nv0075,nv75@tamsonvn.com,Vũ Đức,Nam,1993-03-20,2022-08-30,Client Advisor,Sales,6,,1,Cơ bản,18,95.4,2024-05-30,1,2022-08-30,2023-09-29
+76,nv0076,nv76@tamsonvn.com,Bùi Long,Nam,1983-10-11,2022-03-14,Client Advisor,Sales,6,,0,,0,,,1,2022-03-14,2023-05-04
+77,nv0077,nv77@tamsonvn.com,Đặng Thành,Nam,1989-10-23,2014-04-04,Client Advisor,Sales,6,,0,,0,,,1,2014-04-04,2023-05-21
+78,nv0078,nv78@tamsonvn.com,Phạm Hải,Nam,1983-04-14,2018-09-20,Senior Client Advisor,Sales,6,,1,Nâng cao,42,72.3,2021-01-13,1,2018-09-20,2024-12-15
+79,nv0079,nv79@tamsonvn.com,Hoàng Minh,Nam,1982-03-19,2022-10-17,Store Manager,Management,6,,0,,0,,,1,2022-10-17,2023-12-04
+80,nv0080,nv80@tamsonvn.com,Đỗ Hùng,Nam,1998-03-31,2016-08-08,Visual Merchandiser,Marketing,6,,1,Nâng cao,6,95.9,2023-02-08,1,2016-08-08,2019-07-23
+81,nv0081,nv81@tamsonvn.com,Trần Khánh,Nam,1995-10-02,2020-02-27,Stock Controller,Operations,6,,1,Cơ bản,48,86.6,2022-12-02,1,2020-02-27,2023-03-31
+82,nv0082,nv82@tamsonvn.com,Nguyễn Hà,Nữ,1980-08-26,2011-02-01,Client Advisor,Sales,6,,1,International,30,77.1,2011-08-18,0,2011-02-01,2017-11-21
+83,nv0083,nv83@tamsonvn.com,Dương Hùng,Nam,1988-08-10,2013-07-07,Client Advisor,Sales,6,,1,International,43,93.9,2024-01-01,1,2013-07-07,2023-09-14
+84,nv0084,nv84@tamsonvn.com,Dương Yến,Nữ,1996-12-24,2013-11-14,Client Advisor,Sales,6,,0,,0,,,1,2013-11-14,2016-08-04
+85,nv0085,nv85@tamsonvn.com,Vũ Hoa,Nữ,1990-01-17,2021-02-21,Client Advisor,Sales,6,,0,,0,,,1,2021-02-21,2024-05-04
+86,nv0086,nv86@tamsonvn.com,Vũ Nga,Nữ,1993-04-04,2013-11-08,Client Advisor,Sales,6,,1,Cơ bản,43,94.6,2016-03-23,1,2013-11-08,2022-09-10
+87,nv0087,nv87@tamsonvn.com,Bùi Trang,Nữ,1981-11-16,2013-01-19,Client Advisor,Sales,7,,0,,0,,,1,2013-01-19,2020-04-17
+88,nv0088,nv88@tamsonvn.com,Hồ Phương,Nữ,1989-05-30,2021-11-13,Client Advisor,Sales,7,,1,Nâng cao,56,79.9,2021-12-27,1,2021-11-13,2023-08-11
+89,nv0089,nv89@tamsonvn.com,Phạm Anh,Nam,1985-10-04,2014-03-26,Client Advisor,Sales,7,,1,Chuyên sâu,30,92.9,2018-11-11,0,2014-03-26,2019-07-08
+90,nv0090,nv90@tamsonvn.com,Phan Ngọc,Nữ,1983-11-12,2019-07-05,Senior Client Advisor,Sales,7,,1,Nâng cao,31,81.2,2023-02-22,1,2019-07-05,2021-12-31
+91,nv0091,nv91@tamsonvn.com,Đỗ Thu,Nữ,1990-07-11,2017-01-24,Store Manager,Management,7,,1,Cơ bản,60,74.6,2020-07-19,1,2017-01-24,2019-09-02
+92,nv0092,nv92@tamsonvn.com,Nguyễn Việt,Nam,1990-12-18,2013-01-09,Visual Merchandiser,Marketing,7,,1,Chuyên sâu,86,77.6,2023-01-26,1,2013-01-09,2023-04-16
+93,nv0093,nv93@tamsonvn.com,Nguyễn Hoa,Nữ,1994-01-22,2020-01-07,Stock Controller,Operations,7,,1,Cơ bản,83,83.5,2020-06-01,1,2020-01-07,2021-02-26
+94,nv0094,nv94@tamsonvn.com,Dương Mai,Nữ,1987-08-22,2011-12-08,Client Advisor,Sales,7,,1,International,58,82.1,2023-07-05,1,2011-12-08,2023-05-17
+95,nv0095,nv95@tamsonvn.com,Hồ Anh,Nam,1988-01-17,2014-12-12,Client Advisor,Sales,7,,1,International,55,86.3,2016-02-29,1,2014-12-12,2021-12-22
+96,nv0096,nv96@tamsonvn.com,Hồ Minh,Nam,1991-02-18,2017-07-08,Client Advisor,Sales,7,,1,Cơ bản,45,93.0,2020-01-03,1,2017-07-08,2019-05-29
+97,nv0097,nv97@tamsonvn.com,Phan Linh,Nữ,1997-07-22,2015-10-04,Client Advisor,Sales,7,,1,Cơ bản,86,79.6,2019-05-30,0,2015-10-04,2019-07-21
+98,nv0098,nv98@tamsonvn.com,Dương Lan,Nữ,1999-12-01,2013-12-06,Client Advisor,Sales,7,,1,Cơ bản,44,77.1,2020-06-09,1,2013-12-06,2021-04-22
+99,nv0099,nv99@tamsonvn.com,Hồ Yến,Nữ,1985-05-11,2011-11-25,Client Advisor,Sales,8,,1,International,17,79.9,2020-06-04,1,2011-11-25,2013-07-14
+100,nv0100,nv100@tamsonvn.com,Bùi Thảo,Nữ,2000-01-27,2017-11-07,Client Advisor,Sales,8,,1,Chuyên sâu,82,72.1,2021-04-01,1,2017-11-07,2022-12-20
+101,nv0101,nv101@tamsonvn.com,Lê Thảo,Nữ,1986-02-10,2015-05-05,Client Advisor,Sales,8,,1,Chuyên sâu,71,95.3,2018-05-07,1,2015-05-05,2017-12-04
+102,nv0102,nv102@tamsonvn.com,Ngô Tuấn,Nam,1991-05-05,2022-04-12,Senior Client Advisor,Sales,8,,1,Chuyên sâu,24,79.1,2023-08-13,1,2022-04-12,2024-11-26
+103,nv0103,nv103@tamsonvn.com,Vũ Trung,Nam,1986-07-06,2022-04-13,Store Manager,Management,8,,0,,0,,,1,2022-04-13,2023-09-18
+104,nv0104,nv104@tamsonvn.com,Trần Linh,Nữ,1980-09-22,2016-08-06,Visual Merchandiser,Marketing,8,,1,Nâng cao,29,76.9,2022-03-10,1,2016-08-06,2022-09-20
+105,nv0105,nv105@tamsonvn.com,Hồ Trung,Nam,1990-10-25,2021-07-16,Stock Controller,Operations,8,,1,Chuyên sâu,52,80.8,2024-06-04,1,2021-07-16,2024-12-19
+106,nv0106,nv106@tamsonvn.com,Lê Lan,Nữ,1993-07-31,2013-07-27,Client Advisor,Sales,8,,1,Nâng cao,47,84.1,2016-04-12,1,2013-07-27,2022-04-08
+107,nv0107,nv107@tamsonvn.com,Bùi Ngọc,Nữ,1996-05-22,2022-02-24,Client Advisor,Sales,8,,1,Nâng cao,77,72.7,2024-01-19,1,2022-02-24,2023-03-11
+108,nv0108,nv108@tamsonvn.com,Ngô Mai,Nữ,1983-01-24,2022-05-16,Client Advisor,Sales,8,,1,International,68,71.4,2023-04-09,1,2022-05-16,2024-05-03
+109,nv0109,nv109@tamsonvn.com,Đỗ Trung,Nam,1982-10-15,2022-03-13,Client Advisor,Sales,8,,1,International,16,85.1,2024-04-14,1,2022-03-13,2024-03-11
+110,nv0110,nv110@tamsonvn.com,Trần Đức,Nam,1996-03-13,2015-05-10,Client Advisor,Sales,8,,1,International,39,72.7,2016-05-13,1,2015-05-10,2018-02-27
+111,nv0111,nv111@tamsonvn.com,Trần Thành,Nam,1981-05-06,2011-05-28,Client Advisor,Sales,9,,0,,0,,,1,2011-05-28,2024-06-18
+112,nv0112,nv112@tamsonvn.com,Ngô Thành,Nam,1996-04-26,2022-04-03,Client Advisor,Sales,9,,1,Chuyên sâu,77,95.8,2022-05-02,1,2022-04-03,2023-05-19
+113,nv0113,nv113@tamsonvn.com,Phan Anh,Nam,1996-12-07,2014-10-05,Client Advisor,Sales,9,,1,Cơ bản,63,80.8,2015-05-01,1,2014-10-05,2024-06-06
+114,nv0114,nv114@tamsonvn.com,Đỗ Quang,Nam,1996-08-22,2014-09-13,Senior Client Advisor,Sales,9,,1,International,21,91.6,2017-09-08,1,2014-09-13,2019-07-20
+115,nv0115,nv115@tamsonvn.com,Nguyễn Ánh,Nữ,1984-11-24,2019-11-10,Store Manager,Management,9,,1,International,19,86.5,2021-04-16,0,2019-11-10,2020-10-23
+116,nv0116,nv116@tamsonvn.com,Lê Hà,Nữ,1998-09-01,2015-08-31,Visual Merchandiser,Marketing,9,,1,Cơ bản,85,83.1,2017-06-28,1,2015-08-31,2016-08-30
+117,nv0117,nv117@tamsonvn.com,Đỗ Phương,Nữ,1987-09-16,2017-03-15,Stock Controller,Operations,9,,0,,0,,,1,2017-03-15,2019-10-10
+118,nv0118,nv118@tamsonvn.com,Ngô Thành,Nam,1986-08-06,2016-12-25,Client Advisor,Sales,9,,1,International,44,95.2,2019-09-23,1,2016-12-25,2023-04-11
+119,nv0119,nv119@tamsonvn.com,Trần Thu,Nữ,1981-12-15,2020-09-30,Client Advisor,Sales,9,,1,Chuyên sâu,28,88.0,2023-04-24,1,2020-09-30,2023-05-22
+120,nv0120,nv120@tamsonvn.com,Bùi Tuấn,Nam,1990-01-24,2016-05-10,Client Advisor,Sales,9,,1,Chuyên sâu,31,97.0,2016-09-01,1,2016-05-10,2024-12-11
+121,nv0121,nv121@tamsonvn.com,Nguyễn Bình,Nam,1992-04-05,2012-06-26,Client Advisor,Sales,9,,1,Cơ bản,42,81.3,2020-09-11,1,2012-06-26,2023-04-23
+122,nv0122,nv122@tamsonvn.com,Phạm Thảo,Nữ,1987-03-07,2011-03-03,Client Advisor,Sales,9,,0,,0,,,0,2011-03-03,2020-08-12
+123,nv0123,nv123@tamsonvn.com,Đặng Khánh,Nam,1988-08-15,2014-07-14,Client Advisor,Sales,10,,1,Chuyên sâu,41,65.7,2021-08-10,1,2014-07-14,2017-12-26
+124,nv0124,nv124@tamsonvn.com,Phan Nga,Nữ,1982-01-07,2014-08-03,Client Advisor,Sales,10,,1,Nâng cao,30,86.4,2016-02-29,1,2014-08-03,2023-12-08
+125,nv0125,nv125@tamsonvn.com,Trần Mai,Nữ,1990-11-14,2022-01-24,Client Advisor,Sales,10,,1,International,52,89.9,2022-09-30,1,2022-01-24,2024-11-12
+126,nv0126,nv126@tamsonvn.com,Bùi Yến,Nữ,1995-12-24,2016-12-02,Senior Client Advisor,Sales,10,,1,Cơ bản,89,83.8,2017-12-10,1,2016-12-02,2022-06-02
+127,nv0127,nv127@tamsonvn.com,Vũ Mai,Nữ,1990-11-08,2014-01-04,Store Manager,Management,10,,1,Cơ bản,51,82.3,2021-06-12,1,2014-01-04,2015-02-19
+128,nv0128,nv128@tamsonvn.com,Dương Bình,Nam,1990-09-22,2020-11-19,Visual Merchandiser,Marketing,10,,0,,0,,,0,2020-11-19,2022-12-05
+129,nv0129,nv129@tamsonvn.com,Ngô Hoa,Nữ,1983-12-26,2016-06-10,Stock Controller,Operations,10,,1,Cơ bản,89,87.8,2017-04-29,1,2016-06-10,2024-01-13
+130,nv0130,nv130@tamsonvn.com,Ngô Hoa,Nữ,1995-05-01,2012-12-01,Client Advisor,Sales,10,,0,,0,,,1,2012-12-01,2014-05-11
+131,nv0131,nv131@tamsonvn.com,Lê Anh,Nam,1996-12-13,2019-03-05,Client Advisor,Sales,10,,1,Nâng cao,82,69.1,2021-08-06,1,2019-03-05,2023-01-31
+132,nv0132,nv132@tamsonvn.com,Dương Thành,Nam,1990-03-17,2020-10-23,Client Advisor,Sales,10,,1,International,68,75.5,2023-08-17,1,2020-10-23,2022-06-23

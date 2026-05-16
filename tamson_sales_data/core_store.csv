@@ -1,0 +1,11 @@
+store_id,code,website_id,group_id,name,sort_order,is_active
+1,hn_trang_tien,1,1,HN - Tràng Tiền Plaza,1,1
+2,hn_imc,1,1,HN - InterContinental,2,1
+3,hn_lotte,1,1,HN - Lotte Center,3,1
+4,hn_vincom,1,1,HN - Vincom Bà Triệu,4,1
+5,sg_union,1,1,HCM - Union Square,1,1
+6,sg_caravelle,1,1,HCM - Caravelle,2,1
+7,sg_dongkhoi,1,1,HCM - Vincom Đồng Khởi,1,1
+8,sg_pmh,1,1,HCM - Phú Mỹ Hưng,3,1
+9,dn_vincom,1,1,ĐN - Vincom,1,1
+10,online,1,1,Online - Front Row,1,1
